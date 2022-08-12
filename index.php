@@ -52,21 +52,21 @@
         <div class="row">
             <div class="col">
                 <video width="320" height="240" controls>
-                    <source src="Fish - 110879.mp4" type="video/mp4">
+                    <source src="screen.mp4" type="video/mp4">
                     <source src="movie.ogg" type="video/ogg">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="col">
                 <video width="320" height="240" controls>
-                    <source src="Fish - 110879.mp4" type="video/mp4">
+                    <source src="tekubali.mp4" type="video/mp4">
                     <source src="movie.ogg" type="video/ogg">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="col">
                 <video width="320" height="240" controls>
-                    <source src="Fish - 110879.mp4" type="video/mp4">
+                    <source src="VID_20200101_150628_1.mp4" type="video/mp4">
                     <source src="movie.ogg" type="video/ogg">
                     Your browser does not support the video tag.
                 </video>
